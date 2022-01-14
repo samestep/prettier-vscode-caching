@@ -1,0 +1,8 @@
+{
+  "name": "foo",
+  "private": true,
+  "version": "0.0.0",
+  "devDependencies": {
+    "prettier": "2.2.1"
+  }
+}
